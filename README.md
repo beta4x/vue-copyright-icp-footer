@@ -4,7 +4,8 @@
 `vue-copyright-icp-footer` 是一个风格简洁的以版权、备案（包括 ICP 备案、公安备案）信息为主的页脚。  
 
 [示例](https://dbzz.house/)：  
-![footer example](./public/img/footer-example.png)
+![footer example](https://github.com/beta4x/vue-copyright-icp-footer/blob/main/public/img/footer-example.png?raw=true "vue-copyright-icp-footer example")  
+（示例图片位置为 `public/img/footer-example.png`；如果无法显示图片，请先科学上网。）  
 
 ## 项目特点
 * 风格简洁。  
